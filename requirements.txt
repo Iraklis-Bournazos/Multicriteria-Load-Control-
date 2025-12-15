@@ -1,0 +1,10 @@
+requests
+pandas
+numpy
+joblib
+pulp
+matplotlib
+astral
+pyserial
+forecast-solar
+nest_asyncio
